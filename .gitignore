@@ -1,0 +1,35 @@
+# ============================================================
+# STM32CubeIDE / STM32 Projects
+# ============================================================
+
+# Build directories
+Debug/
+Release/
+build/
+out/
+
+# Compiler / linker generated files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+
+# Static libraries
+*.a
+*.lib
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*~
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
